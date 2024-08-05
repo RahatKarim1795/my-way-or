@@ -8,7 +8,7 @@ import { useState, useEffect } from 'react'
 import { ChevronLeft, ChevronRight, User, X, Mail, Lock, Eye, EyeOff } from 'lucide-react'
 
 const sections = [
-  { name: 'Shows', href: '/showssssss' },
+  { name: 'Shows', href: '/shows' },
   { name: 'Blogs', href: '/blogs' },
   { name: 'Photos', href: '/photos' },
   { name: 'Videos', href: '/videos' },
