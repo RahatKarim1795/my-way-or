@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import { User, Mail, MessageSquare, Send } from 'lucide-react';
-import Navbar from '../../components/navbar'; // Adjust the import path as needed
+import Navbar from '@/components/navbar'; // Adjust the import path as needed
 import Footer from '../../components/footer';
 
 const ContactPage = () => {

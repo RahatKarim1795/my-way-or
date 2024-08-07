@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 
 const Navbar = () => {
-  const sections = ['Shows', 'Blogs', 'Photos', 'Videos', 'Merch', 'Contact'];
+  const sections = ['Shows', 'Photos', 'Videos', 'Discography', 'Merch', 'Blogs', 'About', 'Contact'];
 
   return (
     <nav className="bg-black bg-opacity-50 fixed w-full z-10">
